@@ -1,4 +1,4 @@
-# StockAnalysisCrew
+
 
 # StockAnalysisCrew
 
@@ -25,30 +25,11 @@ StockAnalysisCrew is a Streamlit-based application designed to analyze the stock
    git clone https://github.com/yourusername/StockAnalysisCrew.git
 
 
-##Navigate to the project directory
-
+## Navigate to the Project Directory
+```bash
 cd StockAnalysisCrew
 
-##Install the dependencies
-pip install -r requirements.txt
-
-##Launching the App
-Run the app using the following command
-
-streamlit run appV1.py
-
-##File Structure
-appV1.py: Main application file to launch the Streamlit app.
-requirements.txt: Contains the Python dependencies required for the project.
-README.md: This documentation file.
-
-##Usage
-Launch the app with the command above.
-Explore the recommendations and insights provided by the agent.
-Use the Technical Advisor to analyze individual stocks and market trends.
-Utilize the Portfolio Manager to optimize your investment strategy.
-
-Future Enhancements
+## Future Enhancements
 Add support for real-time stock data analysis.
 Include sentiment analysis from news and social media.
 Provide personalized recommendations based on user-defined preferences.
